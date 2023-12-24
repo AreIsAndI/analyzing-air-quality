@@ -1,0 +1,1 @@
+https://analyzing-air-quality-by-irfan.streamlit.app/
